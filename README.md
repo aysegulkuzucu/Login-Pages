@@ -1,2 +1,2 @@
-# lab11
- ödev1 Login
+# Login Pages
+ hw1 Login
